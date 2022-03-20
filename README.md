@@ -16,7 +16,11 @@ Para executar o programa utilize o seguinte comando:
 $ ./minishell
 ```
 
-## Exemplo
-###### <p align="right">Next: [Resources](#resources)&emsp;Previous: [How to launch](#how-to-launch)&emsp;&emsp;[[Contents](#table-of-contents)]</p>
-![minishell](https://user-images.githubusercontent.com/80413516/155508179-96505e8a-92f6-46e7-8c57-3d346b9782eb.gif)
+## Exemplo:
+<img src="https://github.com/andersonhsporto/ft-minishell-ht/blob/master/img/exp.gif" 
+     width="700" 
+     height="500" />
 
+## REFERÊNCIAS
+* Informações adicionais - [Bash](https://linux.die.net/man/1/bash)
+* Este projeto foi desenvolvido em conjunto com [Alef Rocha](https://github.com/Alef-gabriel/minishell)
