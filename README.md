@@ -1,5 +1,6 @@
 # minishell (As beautiful as a shell)
 #### O objetivo deste projeto é construir um simples interpretador de linguagem de comando em C.
+![norminette](https://github.com/andersonhsporto/ft-minishell-ht/workflows/norminette/badge.svg)
 
 ## Requisitos:
 Testado utilizando Manjaro 21.0 LTS
